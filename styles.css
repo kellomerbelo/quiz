@@ -31,6 +31,7 @@ button {
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s;
+    margin-top: 20px;
 }
 
 button:hover {
@@ -44,4 +45,10 @@ button:hover {
 #results {
     font-weight: bold;
     margin-top: 20px;
+}
+
+label {
+    display: block;
+    margin: 10px 0;
+    text-align: left;
 }
