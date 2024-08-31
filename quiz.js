@@ -393,8 +393,7 @@ const allQuestions = [
   { question: "Which K-pop girl group is known for their song 'As If It's Your Last'?", a: "BLACKPINK", b: "ITZY", c: "TWICE", d: "Red Velvet", correct: "a" },
   { question: "Which K-pop girl group is known for their song 'Cherry Bomb'?", a: "NCT 127", b: "GFriend", c: "ITZY", d: "Stray Kids", correct: "a" },
   { question: "Which K-pop girl group released the song 'Dalla Dalla'?", a: "ITZY", b: "TWICE", c: "GFriend", d: "Red Velvet", correct: "a" },
-  { question: "Which K-pop group released the song 'Butter'?", a: "BTS", b: "BLACKPINK", c: "EXO", d: "TWICE", correct: "a" },
-
+  { question: "Which K-pop group released the song 'Butter'?", a: "BTS", b: "BLACKPINK", c: "EXO", d: "TWICE", correct: "a" }
 ];
 
 // Function to shuffle an array (Fisher-Yates shuffle algorithm)
