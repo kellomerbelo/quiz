@@ -1,6 +1,4 @@
 const allQuestions = [
-    // Add your 100 questions here, each formatted like the objects in quizData
-    // Example:
   { question: "Which group released the song 'Butter'?", a: "BTS", b: "Blackpink", c: "EXO", d: "Twice", correct: "a" },
   { question: "Who is the leader of Blackpink?", a: "Jennie", b: "Jisoo", c: "Lisa", d: "Rosé", correct: "b" },
   { question: "Which group is known as the 'Nation's Girl Group'?", a: "Girls' Generation", b: "Twice", c: "ITZY", d: "Red Velvet", correct: "a" },
@@ -158,7 +156,7 @@ const allQuestions = [
   { question: "Which group is known for the song 'Feel Special'?", a: "Twice", b: "GFriend", c: "Red Velvet", d: "Blackpink", correct: "a" },
   { question: "Which K-pop idol is known for her solo debut with '24 Hours'?", a: "Sunmi", b: "HyunA", c: "Taeyeon", d: "IU", correct: "a" },
   { question: "Which group released the song 'Sherlock'?", a: "SHINee", b: "EXO", c: "Super Junior", d: "NCT 127", correct: "a" },
-      { question: "Who is the artist of the song 'Gangnam Style'?", a: "PSY", b: "GDragon", c: "Rain", d: "BIGBANG", correct: "a" },
+  { question: "Who is the artist of the song 'Gangnam Style'?", a: "PSY", b: "GDragon", c: "Rain", d: "BIGBANG", correct: "a" },
   { question: "Which K-pop group released the song 'How You Like That'?", a: "BLACKPINK", b: "ITZY", c: "GFriend", d: "Red Velvet", correct: "a" },
   { question: "What is the title of TWICE's debut song?", a: "Like Ooh-Ahh", b: "Cheer Up", c: "TT", d: "Fancy", correct: "a" },
   { question: "Which K-pop group released the song 'Likey'?", a: "TWICE", b: "Red Velvet", c: "ITZY", d: "GFriend", correct: "a" },
@@ -459,7 +457,6 @@ const allQuestions = [
   { question: "Who is the main vocalist of EXO?", a: "Chanyeol", b: "D.O.", c: "Kai", d: "Suho", correct: "b" },
   { question: "Which K-pop girl group released the song 'Dalla Dalla'?", a: "ITZY", b: "TWICE", c: "GFriend", d: "Red Velvet", correct: "a" }
   { question: "Which K-pop group released the song 'Butter'?", a: "BTS", b: "BLACKPINK", c: "EXO", d: "TWICE", correct: "a" },
-    // Add more questions until you have 100
 ];
 
 // Function to shuffle an array (Fisher-Yates shuffle algorithm)
